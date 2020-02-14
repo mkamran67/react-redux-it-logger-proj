@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Update test",
+      "attention": true,
+      "tech": "Sam Doe",
+      "date": "2020-02-14T12:05:13.618Z"
+    },
+    {
+      "message": "abc",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-02-14T12:59:48.107Z",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "message": "jj abra",
+      "attention": false,
+      "tech": "Almer Whatts",
+      "date": "2020-02-14T15:51:39.912Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Jesus",
+      "lastName": "Wheel"
+    },
+    {
+      "id": 2,
+      "firstName": "Jacob",
+      "lastName": "Jackson"
+    },
+    {
+      "id": 3,
+      "firstName": "Almer",
+      "lastName": "Whatts"
+    }
+  ]
+}
